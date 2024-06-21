@@ -1,0 +1,9 @@
+
+{
+  "projects": {
+    "default": "rex-chatbot-de602d",
+    "test": "rex-chatbot-de602"
+  },
+  "targets": {},
+  "etags": {}
+}

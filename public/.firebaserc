@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "rex-chatbot-de602",
+    "backend": "rex-chatbot-de602"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
